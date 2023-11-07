@@ -1,3 +1,7 @@
+This a small project, inserted in the Advanced Web development with PHP, Laravel And Vuue.JS course, from Unity, where the goal is Redis implementation.
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
